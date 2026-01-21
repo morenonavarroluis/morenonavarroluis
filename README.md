@@ -9,24 +9,50 @@ I'm excited to keep learning and growing in the web development world, always lo
 
 I code with
 
-FrontEnd
-html5 logo  css3 logo  javascript logo  bootstrap logo  tailwindcss logo  typescript logo  git logo  react logo  nextjs logo  materialui logo  redux logo
-
-BackEnd
- logo  express logo  npm logo  mongodb logo  mysql logo  postgresql logo  firebase logo
-
-Tools
-typescript logo  git logo  figma logo  vscode logo  trello logo  slack logo  npm logo  yarn logo  gitlab logo  github logo
-
-Social Media
-linkedin logo discord logo
-stats graph languages graph
-<h3 align="center">Tecnologías que utilizo</h3>
+<h1 align="center">¡Hola! Soy Manuel 👋</h1>
 
 <p align="center">
+  Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes y atractivas.
+</p>
+
+---
+
+<h2 align="center">Tecnologías que utilizo</h2>
+
+<h3 align="center">FrontEnd</h3>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,react,bootstrap,figma,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,materialui,redux" />
   </a>
+</p>
+
+<h3 align="center">BackEnd</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,py,mongodb,mysql,postgres,firebase" />
+  </a>
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,linux" />
+  </a>
+</p>
+
+<h3 align="center">Social Media</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin,discord" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=morenonavarroluis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morenonavarroluis&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 <!--
 **morenonavarroluis/morenonavarroluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
