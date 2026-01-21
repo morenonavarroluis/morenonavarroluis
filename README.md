@@ -1,5 +1,5 @@
 Hey 👋 What's up?
-I'm Moisés Castillo, a passionate web developer originally from Venezuela. With two years of experience in web development, I've specialized mainly in front end, although I also have a basic knowledge of back end.
+I'm  Manuel Navarro, a passionate web developer originally from Venezuela. With two years of experience in web development, I've specialized mainly in front end, although I also have a basic knowledge of back end.
 
 My skills include an almost advanced mastery of HTML and CSS, as well as an intermediate level in JavaScript and React. I love to create attractive and functional interfaces that enhance the user experience.
 
@@ -8,13 +8,6 @@ In addition to my core competencies, I have familiarity with other technologies 
 I'm excited to keep learning and growing in the web development world, always looking 🔭 for new challenges and opportunities to collaborate on innovative projects.
 
 I code with
-
-<h1 align="center">¡Hola! Soy Manuel 👋</h1>
-
-<p align="center">
-  Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes y atractivas.
-</p>
-
 ---
 
 <h2 align="center">Tecnologías que utilizo</h2>
