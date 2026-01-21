@@ -13,7 +13,7 @@ FrontEnd
 html5 logo  css3 logo  javascript logo  bootstrap logo  tailwindcss logo  typescript logo  git logo  react logo  nextjs logo  materialui logo  redux logo
 
 BackEnd
-nodejs logo  express logo  npm logo  mongodb logo  mysql logo  postgresql logo  firebase logo
+ logo  express logo  npm logo  mongodb logo  mysql logo  postgresql logo  firebase logo
 
 Tools
 typescript logo  git logo  figma logo  vscode logo  trello logo  slack logo  npm logo  yarn logo  gitlab logo  github logo
@@ -21,7 +21,13 @@ typescript logo  git logo  figma logo  vscode logo  trello logo  slack logo  npm
 Social Media
 linkedin logo discord logo
 stats graph languages graph
+<h3 align="center">Tecnologías que utilizo</h3>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,react,bootstrap,figma,git" />
+  </a>
+</p>
 <!--
 **morenonavarroluis/morenonavarroluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
