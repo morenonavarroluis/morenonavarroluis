@@ -15,14 +15,14 @@ I code with
 <h3 align="center">FrontEnd</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" />
   </a>
 </p>
 
 <h3 align="center">BackEnd</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,php,python" />
   </a>
 </p>
 
